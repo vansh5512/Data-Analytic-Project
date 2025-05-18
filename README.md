@@ -44,18 +44,3 @@ pip install -r requirements.txt
 
 🛠️ Data preprocessing for ML (optional)
 
-📊 Example Visualizations
-Include screenshots or saved figures like this:
-
-md
-Copy code
-![Heatmap](images/correlation_heatmap.png)
-![Feature Distribution](images/feature_distribution.png)
-🚀 Getting Started
-Clone this repository
-
-Place the MultipleFeatureDataset.csv in the root directory
-
-Open Analysis_Notebook.ipynb in Jupyter Notebook
-
-Run through the analysis steps cell by cell
